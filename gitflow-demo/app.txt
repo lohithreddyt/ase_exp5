@@ -1,2 +1,2 @@
-Profile feature from develop branch
+Profile feature completed
 Login feature added
